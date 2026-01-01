@@ -16,7 +16,7 @@ Cancer Dataset.
 - Model training and evaluation
 
 ## Models
-- Remember Logistic Regression
+- Logistic Regression
 - Support Vector Machine (SVM)
 - Random Forest
 - XGBoost
